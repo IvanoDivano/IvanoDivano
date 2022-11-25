@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2>Hello! my name is Ivan, and im a IT Student at UNIGE (づ｡◕‿‿◕｡)づ <br> Welcome to my profile!
 
 ```c#
 public class IvanoDivano
