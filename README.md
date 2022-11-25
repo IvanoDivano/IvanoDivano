@@ -1,16 +1,34 @@
 ### Hi there 👋
 
-<!--
-**IvanoDivano/IvanoDivano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```c#
+using System;
+using System.Collections.Generic;
 
-Here are some ideas to get you started:
+namespace ForReadme
+{
+    public class IvanoDivano
+    {
+        public string fName;
+        public string lName;
+        public string occupation;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+        public List<string> spokenLang;
+        public List<string> codingLang;
+
+
+
+        public IvanoDivano()
+        {
+            this.fName = "Ivan";
+            this.lName = "Tenga";
+            this.occupation = "Student"
+
+            this.spokenLang = ["it_IT", "en_UK", "es_ES"];
+            this.codingLang = ["C" , "C++" , "C#" , "Java" , "OCaml" , "HTML" , "CSS" , "PHP"];
+
+
+        }
+    }
+}
+
+```
