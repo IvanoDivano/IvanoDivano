@@ -15,7 +15,7 @@ public class IvanoDivano
         this.fName = "Ivan";
         this.lName = "Tenga";
         this.occupation = "Student"
-        this.age = 23
+        this.age = 24
 
         this.spokenLang = ["it_IT", "en_UK", "es_ES"];
         this.codingLang = ["C" , "C++" , "C#" , "Java" , "OCaml" , "HTML" , "CSS" , "PHP"];
